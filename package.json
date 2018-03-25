@@ -1,8 +1,11 @@
 {
   "name": "oxyde",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.js",
+  "files": [
+    "./lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/oxydejs/oxyde.git"
   },
-  "author": "",
+  "author": "senyu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/oxydejs/oxyde/issues"
